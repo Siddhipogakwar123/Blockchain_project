@@ -1,10 +1,15 @@
 # Blockchain_project
 StudentRegistry Smart Contract
+
 Overview
+
 The StudentRegistry contract is a Solidity-based smart contract designed for managing student information and attendance. It allows students to register, mark their attendance, and receive rewards based on their attendance records.
 
+
 Features
+
 Student Registration: Allows students to register with their personal details.
+
 Attendance Tracking: Enables students to mark their attendance and track the number of days attended.
 Reward System: Automatically rewards students with Ether if their attendance exceeds a predefined threshold.
 Contract Management: Allows the contract owner to fund the contract and withdraw funds.
